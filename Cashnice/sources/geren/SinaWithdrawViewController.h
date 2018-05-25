@@ -1,0 +1,13 @@
+//
+//  SinaWithdrawViewController.h
+//  Cashnice
+//
+//  Created by a on 16/8/22.
+//  Copyright © 2016年 l. All rights reserved.
+//
+
+#import "CustomViewController.h"
+
+@interface SinaWithdrawViewController : CustomViewController
+
+@end

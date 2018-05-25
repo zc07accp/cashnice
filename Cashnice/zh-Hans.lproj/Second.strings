@@ -1,0 +1,186 @@
+
+/* Class = "UILabel"; text = "张楠"; ObjectID = "0EU-g0-Vp2"; */
+"0EU-g0-Vp2.text" = "张楠";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "2HM-fZ-JS5"; */
+"2HM-fZ-JS5.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "    还剩:"; ObjectID = "4Yo-dq-YmJ"; */
+"4Yo-dq-YmJ.text" = "    还剩:";
+
+/* Class = "UILabel"; text = "北京 朝阳"; ObjectID = "53V-RM-ci5"; */
+"53V-RM-ci5.text" = "北京 朝阳";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "59C-Bq-glv"; */
+"59C-Bq-glv.text" = "Label";
+
+/* Class = "UILabel"; text = "    蓝海研"; ObjectID = "5fi-F4-oVK"; */
+"5fi-F4-oVK.text" = "    蓝海研";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "61N-RN-y4O"; */
+"61N-RN-y4O.text" = "Label";
+
+/* Class = "UILabel"; text = "    元"; ObjectID = "6Tg-ty-b07"; */
+"6Tg-ty-b07.text" = "    元";
+
+/* Class = "UILabel"; text = "北京 朝阳"; ObjectID = "8dP-27-srA"; */
+"8dP-27-srA.text" = "北京 朝阳";
+
+/* Class = "UILabel"; text = "北京 朝阳"; ObjectID = "9c5-fe-efN"; */
+"9c5-fe-efN.text" = "北京 朝阳";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AJf-Y5-saZ"; */
+"AJf-Y5-saZ.text" = "Label";
+
+/* Class = "UILabel"; text = "说明2"; ObjectID = "C8Q-vF-93f"; */
+"C8Q-vF-93f.text" = "说明2";
+
+/* Class = "UILabel"; text = "授信人数"; ObjectID = "DTQ-bv-t68"; */
+"DTQ-bv-t68.text" = "授信人数";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FBa-Gh-fXa"; */
+"FBa-Gh-fXa.text" = "Label";
+
+/* Class = "UILabel"; text = "被20人授信"; ObjectID = "HEP-BC-Y3w"; */
+"HEP-BC-Y3w.text" = "被20人授信";
+
+/* Class = "UILabel"; text = "被20人授信"; ObjectID = "HSZ-ra-XJC"; */
+"HSZ-ra-XJC.text" = "被20人授信";
+
+/* Class = "UILabel"; text = "借款总额  "; ObjectID = "JPw-fb-XeF"; */
+"JPw-fb-XeF.text" = "借款总额  ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JvX-vA-6Ix"; */
+"JvX-vA-6Ix.text" = "Label";
+
+/* Class = "UILabel"; text = "张楠"; ObjectID = "K6n-1F-Kj0"; */
+"K6n-1F-Kj0.text" = "张楠";
+
+/* Class = "UILabel"; text = "被20人授信"; ObjectID = "KAZ-qf-XCF"; */
+"KAZ-qf-XCF.text" = "被20人授信";
+
+/* Class = "UILabel"; text = "张楠"; ObjectID = "MV3-de-OTh"; */
+"MV3-de-OTh.text" = "张楠";
+
+/* Class = "UILabel"; text = "    授信15人"; ObjectID = "NA8-zf-CJT"; */
+"NA8-zf-CJT.text" = "    授信15人";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "Nap-P1-8rz"; */
+"Nap-P1-8rz.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "发送验证码"; ObjectID = "P0A-aM-52k"; */
+"P0A-aM-52k.normalTitle" = "发送验证码";
+
+/* Class = "UILabel"; text = "2015-03-15"; ObjectID = "PKs-Gi-SBh"; */
+"PKs-Gi-SBh.text" = "2015-03-15";
+
+/* Class = "UILabel"; text = "5万"; ObjectID = "PNq-WH-GEq"; */
+"PNq-WH-GEq.text" = "5万";
+
+/* Class = "UILabel"; text = "借款期限"; ObjectID = "Qxq-Sa-evi"; */
+"Qxq-Sa-evi.text" = "借款期限";
+
+/* Class = "UILabel"; text = "账户余额:"; ObjectID = "U8z-qh-wuM"; */
+"U8z-qh-wuM.text" = "账户余额:";
+
+/* Class = "UIButton"; normalTitle = "确认还款"; ObjectID = "UI1-TW-fBq"; */
+"UI1-TW-fBq.normalTitle" = "确认还款";
+
+/* Class = "UILabel"; text = "山东恒生有限公司dfdfdfdsafdafda"; ObjectID = "USQ-nV-ZEH"; */
+"USQ-nV-ZEH.text" = "山东恒生有限公司dfdfdfdsafdafda";
+
+/* Class = "UILabel"; text = "说明1"; ObjectID = "VJG-5Y-bX2"; */
+"VJG-5Y-bX2.text" = "说明1";
+
+/* Class = "UILabel"; text = "1万"; ObjectID = "Wue-F7-Vmx"; */
+"Wue-F7-Vmx.text" = "1万";
+
+/* Class = "UILabel"; text = "    授信15人"; ObjectID = "Xkt-nk-Vwn"; */
+"Xkt-nk-Vwn.text" = "    授信15人";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YYO-2v-y15"; */
+"YYO-2v-y15.text" = "Label";
+
+/* Class = "UILabel"; text = "天"; ObjectID = "aH9-1G-d3Q"; */
+"aH9-1G-d3Q.text" = "天";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "aZ5-VR-fzb"; */
+"aZ5-VR-fzb.text" = "3";
+
+/* Class = "UILabel"; text = "山东恒生有限公司wcng"; ObjectID = "afg-WJ-3il"; */
+"afg-WJ-3il.text" = "山东恒生有限公司wcng";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "b6E-g3-Y3h"; */
+"b6E-g3-Y3h.text" = "Label";
+
+/* Class = "UILabel"; text = "张楠"; ObjectID = "bb7-lq-0fK"; */
+"bb7-lq-0fK.text" = "张楠";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cC1-HE-bgP"; */
+"cC1-HE-bgP.text" = "Label";
+
+/* Class = "UILabel"; text = "    元"; ObjectID = "cKc-jF-eak"; */
+"cKc-jF-eak.text" = "    元";
+
+/* Class = "UILabel"; text = "LabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabel"; ObjectID = "caF-po-y7n"; */
+"caF-po-y7n.text" = "LabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabelLabel";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dSZ-ss-NAh"; */
+"dSZ-ss-NAh.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ddJ-r2-TNj"; */
+"ddJ-r2-TNj.text" = "Label";
+
+/* Class = "UILabel"; text = "筹款期至  "; ObjectID = "gfM-y0-SH0"; */
+"gfM-y0-SH0.text" = "筹款期至  ";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "hd9-hE-l4Y"; */
+"hd9-hE-l4Y.normalTitle" = "下一步";
+
+/* Class = "UILabel"; text = "张*爱"; ObjectID = "ioY-OU-AP3"; */
+"ioY-OU-AP3.text" = "张*爱";
+
+/* Class = "UILabel"; text = "北京 朝阳"; ObjectID = "j9s-3I-18g"; */
+"j9s-3I-18g.text" = "北京 朝阳";
+
+/* Class = "UILabel"; text = "进度"; ObjectID = "jHN-sq-xTM"; */
+"jHN-sq-xTM.text" = "进度";
+
+/* Class = "UILabel"; text = "请选择授信额度:"; ObjectID = "jNm-28-MOu"; */
+"jNm-28-MOu.text" = "请选择授信额度:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "k9F-7d-w9H"; */
+"k9F-7d-w9H.text" = "Label";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "m0i-9n-Fa8"; */
+"m0i-9n-Fa8.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "neI-7D-Bgj"; */
+"neI-7D-Bgj.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "被20人授信"; ObjectID = "niU-Dk-nVv"; */
+"niU-Dk-nVv.text" = "被20人授信";
+
+/* Class = "UILabel"; text = "    蓝海研究院主任作作作作"; ObjectID = "oJw-fw-0nm"; */
+"oJw-fw-0nm.text" = "    蓝海研究院主任作作作作";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oel-Sm-Fb1"; */
+"oel-Sm-Fb1.text" = "Label";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "po1-Tw-KB3"; */
+"po1-Tw-KB3.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "年化利率"; ObjectID = "tRF-ol-bSL"; */
+"tRF-ol-bSL.text" = "年化利率";
+
+/* Class = "UILabel"; text = "5万"; ObjectID = "uFM-OM-7zh"; */
+"uFM-OM-7zh.text" = "5万";
+
+/* Class = "UILabel"; text = "  借款人:"; ObjectID = "ww8-iD-fIR"; */
+"ww8-iD-fIR.text" = "  借款人:";
+
+/* Class = "UILabel"; text = "张*爱"; ObjectID = "yPa-p8-SI9"; */
+"yPa-p8-SI9.text" = "张*爱";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zPm-hh-AIT"; */
+"zPm-hh-AIT.text" = "Label";

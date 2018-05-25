@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9531" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+    </dependencies>
+    <scenes>
+        <!--NextB-->
+        <scene sceneID="qvD-bJ-b1g">
+            <objects>
+                <viewController storyboardIdentifier="NextB" automaticallyAdjustsScrollViewInsets="NO" id="gfZ-5l-d6C" customClass="NextB" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="GIB-Gg-fqG"/>
+                        <viewControllerLayoutGuide type="bottom" id="BsJ-DK-dmw"/>
+                    </layoutGuides>
+                    <view key="view" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="A5F-p6-5Vk">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="60"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Ojx-we-rqK">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="60"/>
+                                <subviews>
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="nlD-iV-OFy">
+                                        <rect key="frame" x="12" y="12" width="390" height="36"/>
+                                        <subviews>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7Zo-Y1-tiz">
+                                                <rect key="frame" x="0.0" y="0.0" width="390" height="36"/>
+                                                <color key="backgroundColor" red="1" green="0.1881042044" blue="0.1178860541" alpha="1" colorSpace="calibratedRGB"/>
+                                                <state key="normal" title="下一步">
+                                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                                </state>
+                                                <connections>
+                                                    <action selector="nextButtonPressed:" destination="gfZ-5l-d6C" eventType="touchUpInside" id="RYv-O4-zS7"/>
+                                                </connections>
+                                            </button>
+                                        </subviews>
+                                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                        <constraints>
+                                            <constraint firstItem="7Zo-Y1-tiz" firstAttribute="width" secondItem="nlD-iV-OFy" secondAttribute="width" id="DIa-mH-Bcg"/>
+                                            <constraint firstItem="7Zo-Y1-tiz" firstAttribute="height" secondItem="nlD-iV-OFy" secondAttribute="height" id="eQF-PG-P2T"/>
+                                            <constraint firstAttribute="centerX" secondItem="7Zo-Y1-tiz" secondAttribute="centerX" id="gV6-xY-KUD"/>
+                                            <constraint firstAttribute="centerY" secondItem="7Zo-Y1-tiz" secondAttribute="centerY" id="nPw-3K-FXA"/>
+                                        </constraints>
+                                    </view>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstItem="nlD-iV-OFy" firstAttribute="height" secondItem="Ojx-we-rqK" secondAttribute="height" multiplier="36/60" id="9Ru-HV-zCi"/>
+                                    <constraint firstAttribute="centerX" secondItem="nlD-iV-OFy" secondAttribute="centerX" id="awo-1i-aiq"/>
+                                    <constraint firstItem="nlD-iV-OFy" firstAttribute="width" secondItem="Ojx-we-rqK" secondAttribute="width" multiplier="390/414" id="fcG-xm-czY"/>
+                                    <constraint firstAttribute="centerY" secondItem="nlD-iV-OFy" secondAttribute="centerY" id="oFd-h7-M1W"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="centerX" secondItem="Ojx-we-rqK" secondAttribute="centerX" id="N80-iW-lUb"/>
+                            <constraint firstAttribute="height" secondItem="Ojx-we-rqK" secondAttribute="height" id="Nhd-7F-mUc"/>
+                            <constraint firstAttribute="width" secondItem="Ojx-we-rqK" secondAttribute="width" id="lWN-vd-Ud3"/>
+                            <constraint firstAttribute="centerY" secondItem="Ojx-we-rqK" secondAttribute="centerY" id="o6R-Ab-siw"/>
+                        </constraints>
+                    </view>
+                    <toolbarItems/>
+                    <nil key="simulatedStatusBarMetrics"/>
+                    <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+                    <size key="freeformSize" width="414" height="60"/>
+                    <connections>
+                        <outlet property="button" destination="7Zo-Y1-tiz" id="Kv9-qc-HA8"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="PJp-ar-oIl" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1214.2933333333335" y="-2510.4179999999997"/>
+        </scene>
+    </scenes>
+</document>

@@ -1,0 +1,143 @@
+/*
+  Localizable.strings
+  Cashnice
+
+  Created by a on 16/6/29.
+  Copyright © 2016年 l. All rights reserved.
+*/
+"tip.selectionRegion"                   = "请选择地区";
+"tip.inputingPhoneNumber"               = "请输入正确的手机号";
+"tip.gettingValidationCode"             = "请先获取验证码";
+"tip.inputingRightSMSCode"              = "输入正确的验证码";
+"tip.PNregainGettingValidationCode"     = "请先获取验证码";    //手机号已改变，
+"tip.agreementProtocal"                 = "请同意用户协议";
+"tip.regainGettingValidationCode"       = "请先获取验证码";
+"tip.ValidationCodeError"               = "验证码不正确";
+"tip.enterBlackList"                    = "您已进入Cashnice黑名单，无法投资";
+"tip.inputtingInvenstmentCount"         = "请输入投资金额";
+//"tip.amountInvestmentGreaterLoanamount" = "您的投资额超过当前借款额度";
+"tip.amountInvestmentGreaterLoanamount" = "您晚来一步， 投资额超过当前借款额度！";
+"tip.inputtingIntegerMultiple"          = "请输入100的整数倍";
+"tip.balanceNotEnough"                  = "您当前余额不足，请先充值";
+"tip.agreeLoanProtocal"                 = "请同意借款协议";
+"tip.inputtingLoanAmount"               = "请输入借款金额";
+"tip.inputtingBorrowDays"               = "请输入借款天数";
+"tip.borrowMostAndLeast"                = "借款天数最少30天，最多180天";
+"tip.unableReleaseLoan"                 = "借款额度为0，无法发布借款";
+"tip.cancelCredit"                      = "取消授信成功";
+"tip.creditSuccess"                     = "授信成功";
+"tip.askForCreditSuccess"               = "索要授信成功";
+"tip.creditBalanceNotEnough"            = "剩余授信额度不足（您当前还有%d元可授信）";
+"tip.creditWanBalanceNotEnough"         = "剩余授信额度不足（您当前还有%d万元可授信）";
+"tip.changeCreditSuccess"               = "更改授信成功";
+"tip.improvePreviousInformation"        = "请先完成前一项资料";
+"tip.PhoneNumberCheckSuccess"           = "手机号验证成功";
+"tip.submittedForReview"                = "已提交审核，我们会在3个工作日内通知您审核结果";
+"tip.inputtingCompanyName"              = "请输入您的公司名称";
+"tip.inputtingCompanyPosition"          = "请输入您的公司职";
+"tip.inputtingCompanyAddress"           = "请输入您的公司详细地址";
+"tip.inputtingPositionItem"             = "请选择您的社会职务";
+"tip.inputtingSearchContent"            = "请输入搜索内容";
+"tip.loanOff"                           = "借款已正常关闭";
+"tip.repaymentProcessing"               = "还款处理中，稍后告知您结果，请耐心等待";
+"tip.queryDateTime"                     = "查询日期时间跨度超过3个月";
+"tip.inputtingBankNumber"               = "请输入银行卡号";
+"tip.selectedBankCode"                  = "请选择卡类型";
+"tip.holderName"                        = "请输入持卡人姓名";
+"tip.idNum"                             = "请输入身份证号";
+"tip.phoneNum"                          = "请输入银行预留手机号";
+"tip.bamkCardBindFail"                  = "绑定失败，请重试";
+"tip.bamkCardBindFails"                 = "绑定失败，请稍后再试";
+"tip.processing"                        = "正在处理中，返回结果稍后请查看消息提醒";
+"tip.userCancel"                        = "用户主动取消";
+"tip.notInstallWeChat"                  = "您的设备未安装微信，请先安装微信再使用";
+"tip.loadFail"                          = "加载失败，请重试";
+"tip.inputtingRechargeCount"            = "请正确输入您的充值金额";    //输入充值金额
+"tip.inputtingWithdrawCount"            = "请正确输入您的提现金额";
+"tip.rechargeGettingValidationCode"     = "请先获取验证码";//需要先点击获取验证码才能充值哦
+"tip.hasMoneyInAccountEmpty"            = "您的账户余额为0";
+"tip.processingSuccess"                 = "处理成功";
+"tip.personalProfile"                   = "个人简介不能超过200个字";
+"tip.alreadySaved"                      = "已保存";
+"tip.savedSuccess"                      = "保存成功";
+"tip.uploadFail"                        = "上传失败，请重试";
+"tip.serverTemporarilyUnavailable"      = "服务器暂时不可用";
+"tip.connectionToServerTimedOut"        = "连接服务器超时，请检查网络连接";
+"tip.fillLoanTitle"                     = "请填写借款标题";
+"tip.loantitleNotMore"                  = "借款标题不能超过15个字";
+"tip.loanAmountNotEnough"               = "剩余借款额度不";
+"tip.deleteAlert"                       = "请选择要删除的提醒";
+"tip.cacheHasEmpty"                     = "缓存已清空";
+"tip.cashWithdrawalAmount"              = "提现金额必须大于0";
+"tip.withdrawalAmountNotMore"           = "提现金额超出账户余额";
+"tip.mixInputting"                      = "最多输入20字哦";
+"tip.ValidationCodeHasSend"             = "验证码已发送";
+"tip.form.realname"                     = "请输入您的真实姓名";
+"tip.form.idcardNumber"                 = "请输入您的身份证号码";
+"tip.form.idcardPicture"                = "请上传手持身份证照";
+
+"alert.title.bank.holderIntro"          = "持卡人说明";
+"alert.info.bank.holderIntro"           = "为了您的账户安全，只能绑定持卡人本人银行卡\n获取更多帮助，请联系客服";
+"alert.title.bindBank2.ValidationCode"  = "收不到验证码";
+"alert.info.bindBank2.ValidationCode"   = "验证码发送至您的银行预留手机号码\n1、请确认当前是否使用银行预留的手机号码\n2、请检查短信是否被安全软件拦截\n3、如果预留手机号码已停用，请联系银行客服咨询\n4、获取更多的帮助，请联系客服";
+"alert.title.bindBank3"                 = "激活银行卡";
+"alert.info.bindBank3"                  = "绑卡时充值是为了快速提高部分银行的快捷支付金额";
+"alert.message.bindBankPicker"          = "亲，绑卡失败啦，可能是 \n1.您的借记卡号码填错了\n2.银行预留手机号码填错了\n3.我们还不支持您的银行卡";
+"alert.message.chongzhi"                = "正在处理中，返回结果稍后请查看消息提醒";//充值成功，请等待银行完成
+"alert.message.chongzhiViewController"  = "请完成银行卡绑定";//您还没有绑卡或激活银行卡，您可以去继续绑卡或充值一笔小额资金来激活银行卡
+"alert.message.tixianViewController"    = "请完成银行卡绑定";//您还没有绑卡或激活银行卡
+"alert.title.creditStrategy"            = "请先验证身份，才可加好友并授信";
+"alert.message.creditStrategy"          = "确实要取消授信吗";
+"alert.title.EditUserProfile"           = "上传头像";
+"alert.title.fillingBankInfoViewContro" = "手机号说明";
+"alert.info.fillingBankInfoViewContro"  = "银行预留手机号码是办理该银行卡时所填写的手机号码\n没有预留、忘记或者已停用，请联系银行客服更新处理";
+"alert.title.jiekuanPreview"            = "发布借款不能更改";
+"alert.title.myLoanDetailVC"            = "是否关闭此借款";
+"alert.title.newIdEdit"                 = "上传手持身份证照";
+"alert.title.newIdEdit.next"            = "提交身份证后不可修改。我们会在3个工作日内通知您审核结果";
+"alert.title.newshehuiEdit"             = "提交审核期间不可修改。我们会在3个工作日内通知您审核结果";
+"alert.title.PersonHomePage"            = "请先验证身份，才可加好友并授信";
+"alert.title.PersonHomePag2"            = "确定要取消对%@的授信%d元吗";
+"alert.message.PersonHomePage"          = "取消授信还可以再次对他授信";
+"alert.title.seetingVC"                 = "确定要退出Cashnice吗";
+"alert.title.shouxinList"               = "确实要取消对%@的授信吗";
+"alert.title.shouxinList2"              = "要把%@的授信额度改为%d万元吗";
+"alert.title.shouxinList3"              = "要对%@索要授信吗";
+"alert.message.shouxinList3"            = "索要授信3天后才能再次索要";
+"alert.title.shouxinList4"              = "请先验证身份，才可加好友并授信";
+"alert.message.showCardVC"              = "解绑成功";
+"alert.message.tiXian"                  = "正在处理中，返回结果稍后请查看消息提醒";//提现成功，请等待银行完成
+"alert.title.xuZhiVC"                   = "发布借款不能更改";
+"alert.title.license"                   = "请上传营业执照";
+"alert.title.yaoQingHaoYou"             = "邀请好友";
+"alert.title.yaoQingJiLu"               = "要对%@索要授信吗";
+"alert.message.yaoQingJiLu"             = "索要授信3天后才能再次索要";
+"alert.message.qrScanError"             = "很抱歉，无法识别二维码";
+"alert.message.qrScanLogined"           = "登录成功，请在浏览器中继续操作";
+"alert.title.transferMyself"            = "您不能给自己的账户转账";
+
+//*****************借条
+
+"tip.iou.repayment.success"             = "还款信息已经提交，等待出借人确认";
+"tip.iou.account.limit"                 = "您的账户受限，请联系客服";
+"tip.touchid.unlock"                    = "通过Home键验证已有手机指纹";
+
+//*****************身份证
+"tip.idcardauthen.failed"               = "无法识别您的身份证，请重新上传";
+"tip.idcardauthen.validdatefailed"      = "您的身份证已经过期，无法在平台注册";
+"tip.person.realidentify.no"            = "请先完成实名认证";
+
+"tip.redmoney.packet.tip"            = "1、红包可以用于抵扣您的投资本金；\n2、每次投资只能使用一个红包，单个红包不可拆分；\n3、红包总额=可用红包金额+即将生效红包金额；\n4、投资收回后，平台将收回红包本金。";
+
+"tip.redmoney.pickpacket.tip"            = "1、红包可以用于抵扣您的投资本金；\n2、每次投资只能使用一个红包，单个红包不可拆分；\n3、投资收回后，平台将收回红包本金。";
+
+"tip.redmoney.raiseinterest.tip"            = "1、投资时使用加息券，需要手动的选择使用，使用后该投资标即可一直活动加息券的额外年化收益；\n2、通过加息券获得的额外收益，将以现金的形式与投资标的回款同时返回还到您的账户中；\n3、加息券无投资金额限制，可与红包叠加使用；\n4、使用加息券的投资标在进行转让后，将不再继续享受加息券额外的年化收益；\n5、一张加息券仅可使用一个投资标，不与其他的加息活动共享。";
+
+"tip.redmoney.decreaseinterest.tip"            = "1、借款时使用优惠券，需要手动选择使用，使用后该借款即可减去相应的年化收益所产生的利息；\n2、一张优惠券仅可使用一个借款，不与其他的优惠活动共享。";
+
+"tip.redmoney.myinterest.tip"            = "1、优惠券分为多种形式，有加息券、减息券；\n2、借款人在借款时可以使用减息券减免相应的利息；\n3、投资时使用加息券，需要手动的选择使用，使用后该投资标即可一直获得加息券的额外年化收益；\n4、通过加息券获得的额外收益，将以现金的形式与投资标的回款同时返回还到您的账户中；\n5、加息券无投资金额限制，可与红包叠加使用；\n6、使用加息券的投资标在进行转让后，将不再继续享受加息券额外的年化收益；\n7、一张加息券仅可使用一个投资标且单次使用，不与其他的加息活动共享。";
+
+
+"tip.me.totolassets.tip" = "总资产为：您的账户余额+投资本金";
+
+"tip.smartbid.tip" = "1. 初始按照开启自动投标功能的时间先后进行排序，新开启自动投标的用户，自动排到队尾；\n2. 对自动投标设置进行修改的，排名不变，关闭之后又开启的，排名不变；\n3. 轮到自动投标机会，但账户余额不足的，保留位置；\n4. 系统根据用户设置投标范围，自动投标，如果本次投标没有完成，排名不变，直至设定投标范围完成；\n5. 在我的设置中可以关闭智能投标；\n6. 投资有风险，设置需谨慎。";

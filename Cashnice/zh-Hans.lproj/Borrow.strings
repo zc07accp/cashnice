@@ -1,0 +1,66 @@
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "1lh-tR-oJJ"; */
+"1lh-tR-oJJ.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "50000"; ObjectID = "1wb-Q5-h80"; */
+"1wb-Q5-h80.text" = "50000";
+
+/* Class = "UILabel"; text = "公开借款"; ObjectID = "4hp-st-9pZ"; */
+"4hp-st-9pZ.text" = "公开借款";
+
+/* Class = "UILabel"; text = "上传附件（审批文件，资质文件，合同等证明材料）"; ObjectID = "5dP-p2-zt6"; */
+"5dP-p2-zt6.text" = "上传附件（审批文件，资质文件，合同等证明材料）";
+
+/* Class = "UILabel"; text = "仅限jpg、jpeg、bmp、gif、png格式，单个文件最大限4M。最多上传9张图片。"; ObjectID = "73z-P8-zIA"; */
+"73z-P8-zIA.text" = "仅限jpg、jpeg、bmp、gif、png格式，单个文件最大限4M。最多上传9张图片。";
+
+/* Class = "UILabel"; text = "剩余借款额度:"; ObjectID = "FPr-BT-LDY"; */
+"FPr-BT-LDY.text" = "剩余借款额度:";
+
+/* Class = "UILabel"; text = "3天"; ObjectID = "Jpm-4b-cO0"; */
+"Jpm-4b-cO0.text" = "3天";
+
+/* Class = "UILabel"; text = "431k"; ObjectID = "LiB-yf-W9M"; */
+"LiB-yf-W9M.text" = "431k";
+
+/* Class = "UILabel"; text = "7天"; ObjectID = "N6D-yU-VhA"; */
+"N6D-yU-VhA.text" = "7天";
+
+/* Class = "UILabel"; text = "    元"; ObjectID = "NHC-oN-AQO"; */
+"NHC-oN-AQO.text" = "    元";
+
+/* Class = "UILabel"; text = "向好友借款，利息可以自由决定。"; ObjectID = "SMz-iu-pTt"; */
+"SMz-iu-pTt.text" = "向好友借款，利息可以自由决定。";
+
+/* Class = "UILabel"; text = "向好友借款"; ObjectID = "TUC-Mp-XGR"; */
+"TUC-Mp-XGR.text" = "向好友借款";
+
+/* Class = "UILabel"; text = "最少30天，最多180天"; ObjectID = "YhF-PP-aCZ"; */
+"YhF-PP-aCZ.text" = "最少30天，最多180天";
+
+/* Class = "UILabel"; text = "借款用途:"; ObjectID = "Ysj-CS-GyX"; */
+"Ysj-CS-GyX.text" = "借款用途:";
+
+/* Class = "UILabel"; text = "    月"; ObjectID = "bae-p4-qlR"; */
+"bae-p4-qlR.text" = "    月";
+
+/* Class = "UIButton"; normalTitle = "继续上传附件"; ObjectID = "g0t-Jk-vh2"; */
+"g0t-Jk-vh2.normalTitle" = "继续上传附件";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "hd9-hE-l4Y"; */
+"hd9-hE-l4Y.normalTitle" = "下一步";
+
+/* Class = "UILabel"; text = "公开借款"; ObjectID = "iDK-Ui-d2l"; */
+"iDK-Ui-d2l.text" = "公开借款";
+
+/* Class = "UILabel"; text = "上传成功"; ObjectID = "lht-sk-5lo"; */
+"lht-sk-5lo.text" = "上传成功";
+
+/* Class = "UILabel"; text = "hetong.jpg"; ObjectID = "rFh-vH-hXR"; */
+"rFh-vH-hXR.text" = "hetong.jpg";
+
+/* Class = "UILabel"; text = "筹款期限(自发布之日起):"; ObjectID = "rN5-CA-z3U"; */
+"rN5-CA-z3U.text" = "筹款期限(自发布之日起):";
+
+/* Class = "UILabel"; text = "5天"; ObjectID = "yQy-1k-UKK"; */
+"yQy-1k-UKK.text" = "5天";

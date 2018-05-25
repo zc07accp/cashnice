@@ -1,0 +1,195 @@
+
+/* Class = "UILabel"; text = "元"; ObjectID = "23l-To-rjN"; */
+"23l-To-rjN.text" = "元";
+
+/* Class = "UILabel"; text = "筹款天数"; ObjectID = "2ZO-he-LOL"; */
+"2ZO-he-LOL.text" = "筹款天数";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6As-Za-r9B"; */
+"6As-Za-r9B.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6Er-QE-bzg"; */
+"6Er-QE-bzg.text" = "Label";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "6sx-XL-azg"; */
+"6sx-XL-azg.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = " "; ObjectID = "7lJ-jJ-Fxa"; */
+"7lJ-jJ-Fxa.text" = " ";
+
+/* Class = "UILabel"; text = "借款金额"; ObjectID = "8qP-sc-WhG"; */
+"8qP-sc-WhG.text" = "借款金额";
+
+/* Class = "UILabel"; text = "山东恒生有限公司"; ObjectID = "9me-eU-TOz"; */
+"9me-eU-TOz.text" = "山东恒生有限公司";
+
+/* Class = "UILabel"; text = "Cashnice为您找到"; ObjectID = "9ud-qS-l1k"; */
+"9ud-qS-l1k.text" = "Cashnice为您找到";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BXx-lF-NMh"; */
+"BXx-lF-NMh.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "预览"; ObjectID = "CRj-dT-qGT"; */
+"CRj-dT-qGT.normalTitle" = "预览";
+
+/* Class = "UITextField"; placeholder = "请输入好友的昵称、真实姓名、手机号"; ObjectID = "CtR-jL-Twz"; */
+"CtR-jL-Twz.placeholder" = "请输入好友的昵称、真实姓名、手机号";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EuQ-21-kbs"; */
+"EuQ-21-kbs.text" = "Label";
+
+/* Class = "UILabel"; text = " "; ObjectID = "F5Q-3Y-Zav"; */
+"F5Q-3Y-Zav.text" = " ";
+
+/* Class = "UILabel"; text = "向我授信"; ObjectID = "FEJ-uy-uTb"; */
+"FEJ-uy-uTb.text" = "向我授信";
+
+/* Class = "UILabel"; text = "没有搜索到此人"; ObjectID = "GTQ-tJ-Sfj"; */
+"GTQ-tJ-Sfj.text" = "没有搜索到此人";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HUZ-oN-h61"; */
+"HUZ-oN-h61.text" = "Label";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "Hit-Ud-weD"; */
+"Hit-Ud-weD.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "个结果"; ObjectID = "ILb-vx-0EF"; */
+"ILb-vx-0EF.text" = "个结果";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ImS-Uw-V3Z"; */
+"ImS-Uw-V3Z.text" = "Label";
+
+/* Class = "UILabel"; text = "％"; ObjectID = "JP7-0g-gUm"; */
+"JP7-0g-gUm.text" = "％";
+
+/* Class = "UILabel"; text = "张楠"; ObjectID = "JzH-2u-Sh7"; */
+"JzH-2u-Sh7.text" = "张楠";
+
+/* Class = "UITextField"; text = "5"; ObjectID = "Luz-tL-RRc"; */
+"Luz-tL-RRc.text" = "5";
+
+/* Class = "UILabel"; text = "天"; ObjectID = "N7A-VF-xXs"; */
+"N7A-VF-xXs.text" = "天";
+
+/* Class = "UITextField"; placeholder = "最少30天,最多180"; ObjectID = "PRE-2F-cpL"; */
+"PRE-2F-cpL.placeholder" = "最少30天,最多180";
+
+/* Class = "UILabel"; text = "万"; ObjectID = "QW4-oy-xvu"; */
+"QW4-oy-xvu.text" = "万";
+
+/* Class = "UILabel"; text = "成功邀请"; ObjectID = "SHE-Nn-3jZ"; */
+"SHE-Nn-3jZ.text" = "成功邀请";
+
+/* Class = "UIButton"; normalTitle = "发送验证码"; ObjectID = "Tg4-zg-FAL"; */
+"Tg4-zg-FAL.normalTitle" = "发送验证码";
+
+/* Class = "UIButton"; normalTitle = "发送验证码"; ObjectID = "UH0-gH-VZy"; */
+"UH0-gH-VZy.normalTitle" = "发送验证码";
+
+/* Class = "UILabel"; text = "怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办"; ObjectID = "V6P-xY-H02"; */
+"V6P-xY-H02.text" = "怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办怎么办";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "Vej-Aa-6OU"; */
+"Vej-Aa-6OU.text" = "3";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Vyq-U7-nBh"; */
+"Vyq-U7-nBh.text" = "Label";
+
+/* Class = "UILabel"; text = "天"; ObjectID = "Wn8-Ry-wUc"; */
+"Wn8-Ry-wUc.text" = "天";
+
+/* Class = "UILabel"; text = "注册时间"; ObjectID = "XKL-d3-E6a"; */
+"XKL-d3-E6a.text" = "注册时间";
+
+/* Class = "UIButton"; normalTitle = "    发布借款"; ObjectID = "YWU-pn-Pf8"; */
+"YWU-pn-Pf8.normalTitle" = "    发布借款";
+
+/* Class = "UILabel"; text = "位好友注册"; ObjectID = "ZOG-Rx-mPU"; */
+"ZOG-Rx-mPU.text" = "位好友注册";
+
+/* Class = "UIButton"; normalTitle = "  索要  "; ObjectID = "Zvs-8E-5Kb"; */
+"Zvs-8E-5Kb.normalTitle" = "  索要  ";
+
+/* Class = "UILabel"; text = "卡片所属银行或组织"; ObjectID = "aik-GG-4fW"; */
+"aik-GG-4fW.text" = "卡片所属银行或组织";
+
+/* Class = "UILabel"; text = "    元"; ObjectID = "byB-Lg-PWc"; */
+"byB-Lg-PWc.text" = "    元";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dIc-Fr-dpJ"; */
+"dIc-Fr-dpJ.text" = "Label";
+
+/* Class = "UILabel"; text = "姓名"; ObjectID = "dNY-7o-RiS"; */
+"dNY-7o-RiS.text" = "姓名";
+
+/* Class = "UIButton"; normalTitle = "发送验证码"; ObjectID = "eGc-4j-nlg"; */
+"eGc-4j-nlg.normalTitle" = "发送验证码";
+
+/* Class = "UIButton"; normalTitle = "微信登录"; ObjectID = "ewt-Ua-Tsb"; */
+"ewt-Ua-Tsb.normalTitle" = "微信登录";
+
+/* Class = "UIButton"; normalTitle = "发送验证码"; ObjectID = "fmH-t8-bdA"; */
+"fmH-t8-bdA.normalTitle" = "发送验证码";
+
+/* Class = "UILabel"; text = "    蓝海研究院主任蓝海研究院主任蓝海研究院主任蓝海研究院主任蓝海研究院主任蓝海研究院主任蓝海研究院主任蓝海研究院主任"; ObjectID = "gCg-9c-Qai"; */
+"gCg-9c-Qai.text" = "    蓝海研究院主任蓝海研究院主任蓝海研究院主任蓝海研究院主任蓝海研究院主任蓝海研究院主任蓝海研究院主任蓝海研究院主任";
+
+/* Class = "UILabel"; text = "到期本息合计约为:0.00元"; ObjectID = "hEC-ln-UEe"; */
+"hEC-ln-UEe.text" = "到期本息合计约为:0.00元";
+
+/* Class = "UITextField"; placeholder = "请输入1万的整数倍"; ObjectID = "hFt-tY-ohP"; */
+"hFt-tY-ohP.placeholder" = "请输入1万的整数倍";
+
+/* Class = "UILabel"; text = "元"; ObjectID = "hM2-Se-sX3"; */
+"hM2-Se-sX3.text" = "元";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "hd9-hE-l4Y"; */
+"hd9-hE-l4Y.normalTitle" = "下一步";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "hdL-iC-8j3"; */
+"hdL-iC-8j3.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "    元"; ObjectID = "hhT-GT-mf0"; */
+"hhT-GT-mf0.text" = "    元";
+
+/* Class = "UILabel"; text = "    元"; ObjectID = "jkv-RI-54e"; */
+"jkv-RI-54e.text" = "    元";
+
+/* Class = "UILabel"; text = "当前可借款额度:"; ObjectID = "kZh-q5-iN9"; */
+"kZh-q5-iN9.text" = "当前可借款额度:";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "kqP-vQ-0Rw"; */
+"kqP-vQ-0Rw.text" = "2";
+
+/* Class = "UILabel"; text = "已阅读并同意《Cashnice借款须知》、《服务协议》"; ObjectID = "mIX-Zr-JY1"; */
+"mIX-Zr-JY1.text" = "已阅读并同意《Cashnice借款须知》、《服务协议》";
+
+/* Class = "UILabel"; text = "借款天数"; ObjectID = "nqm-Ar-egj"; */
+"nqm-Ar-egj.text" = "借款天数";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ok3-YK-zRl"; */
+"ok3-YK-zRl.text" = "Label";
+
+/* Class = "UITextField"; text = "24"; ObjectID = "pL4-2E-Qft"; */
+"pL4-2E-Qft.text" = "24";
+
+/* Class = "UILabel"; text = "已发送邮件已发送邮件已发送邮件已发送邮件已发送邮件已发送邮件已发送邮件已发送邮件已发送邮件已发送邮件已发送邮件已发送邮件已发送邮件"; ObjectID = "phN-oK-9Ia"; */
+"phN-oK-9Ia.text" = "已发送邮件已发送邮件已发送邮件已发送邮件已发送邮件已发送邮件已发送邮件已发送邮件已发送邮件已发送邮件已发送邮件已发送邮件已发送邮件";
+
+/* Class = "UIButton"; normalTitle = "    添加好友"; ObjectID = "pka-2h-NSq"; */
+"pka-2h-NSq.normalTitle" = "    添加好友";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sIg-LZ-L60"; */
+"sIg-LZ-L60.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "w2W-Nl-HeS"; */
+"w2W-Nl-HeS.text" = "Label";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "wXc-OP-Yod"; */
+"wXc-OP-Yod.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "年化利率"; ObjectID = "xdk-l6-Ak6"; */
+"xdk-l6-Ak6.text" = "年化利率";
+
+/* Class = "UIButton"; normalTitle = "    新手指南"; ObjectID = "zhx-hT-syw"; */
+"zhx-hT-syw.normalTitle" = "    新手指南";

@@ -1,0 +1,90 @@
+
+/* Class = "UILabel"; text = "智能投标"; ObjectID = "0B8-dM-AoV"; */
+"0B8-dM-AoV.text" = "智能投标";
+
+/* Class = "UILabel"; text = "接受通知消息"; ObjectID = "2xL-lw-oXg"; */
+"2xL-lw-oXg.text" = "接受通知消息";
+
+/* Class = "UILabel"; text = "￥50000"; ObjectID = "5Pk-5w-UGl"; */
+"5Pk-5w-UGl.text" = "￥50000";
+
+/* Class = "UILabel"; text = "如果您要关闭或致开启Cashnice的消息提醒，请在iPhone的\"设置\"-\"通知\"功能中，找到应用程序\"Cashnice\"更改。"; ObjectID = "5rX-av-kgY"; */
+"5rX-av-kgY.text" = "如果您要关闭或致开启Cashnice的消息提醒，请在iPhone的\"设置\"-\"通知\"功能中，找到应用程序\"Cashnice\"更改。";
+
+/* Class = "UILabel"; text = "28"; ObjectID = "8M0-0r-zJc"; */
+"8M0-0r-zJc.text" = "28";
+
+/* Class = "UILabel"; text = "已开启"; ObjectID = "Awt-Rr-fPK"; */
+"Awt-Rr-fPK.text" = "已开启";
+
+/* Class = "UILabel"; text = "加入时间"; ObjectID = "ENh-wJ-Av6"; */
+"ENh-wJ-Av6.text" = "加入时间";
+
+/* Class = "UILabel"; text = "我的账单"; ObjectID = "F67-aQ-47s"; */
+"F67-aQ-47s.text" = "我的账单";
+
+/* Class = "UILabel"; text = "我的担保"; ObjectID = "GCa-Oz-MuP"; */
+"GCa-Oz-MuP.text" = "我的担保";
+
+/* Class = "UILabel"; text = "现居：北京 "; ObjectID = "H8l-Db-bH8"; */
+"H8l-Db-bH8.text" = "现居：北京 ";
+
+/* Class = "UILabel"; text = "28"; ObjectID = "HVC-bC-uHF"; */
+"HVC-bC-uHF.text" = "28";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IMa-Wn-wBo"; */
+"IMa-Wn-wBo.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "KmP-o4-AFp"; */
+"KmP-o4-AFp.normalTitle" = "下一步";
+
+/* Class = "UILabel"; text = "认证资料"; ObjectID = "L80-8W-DVE"; */
+"L80-8W-DVE.text" = "我的资料";
+
+/* Class = "UILabel"; text = "管理银行卡"; ObjectID = "Ld2-db-WA2"; */
+"Ld2-db-WA2.text" = "管理银行卡";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NBO-a4-KaX"; */
+"NBO-a4-KaX.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Nw3-LD-lq4"; */
+"Nw3-LD-lq4.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TEj-yr-E1d"; */
+"TEj-yr-E1d.text" = "Label";
+
+/* Class = "UILabel"; text = "消息提醒"; ObjectID = "Wpb-C3-19T"; */
+"Wpb-C3-19T.text" = "消息提醒";
+
+/* Class = "UILabel"; text = "gongsi"; ObjectID = "a4V-RD-Swf"; */
+"a4V-RD-Swf.text" = "gongsi";
+
+/* Class = "UILabel"; text = "我的借款"; ObjectID = "cv3-EJ-Lsc"; */
+"cv3-EJ-Lsc.text" = "我的借款";
+
+/* Class = "UILabel"; text = "zhang san"; ObjectID = "e2I-4R-RZB"; */
+"e2I-4R-RZB.text" = "zhang san";
+
+/* Class = "UIButton"; normalTitle = "提现"; ObjectID = "eoc-qo-eRo"; */
+"eoc-qo-eRo.normalTitle" = "提现";
+
+/* Class = "UILabel"; text = "28"; ObjectID = "fSS-LI-XMc"; */
+"fSS-LI-XMc.text" = "28";
+
+/* Class = "UILabel"; text = "关闭时您将收不到，Cashnice发送的消息提醒。"; ObjectID = "i3E-UY-Ody"; */
+"i3E-UY-Ody.text" = "关闭时您将收不到，Cashnice发送的消息提醒。";
+
+/* Class = "UIButton"; normalTitle = "充值"; ObjectID = "jfi-y8-Q9l"; */
+"jfi-y8-Q9l.normalTitle" = "充值";
+
+/* Class = "UILabel"; text = "我的投资"; ObjectID = "oni-6c-GiB"; */
+"oni-6c-GiB.text" = "我的投资";
+
+/* Class = "UILabel"; text = "账户余额:"; ObjectID = "pzu-Hs-uVY"; */
+"pzu-Hs-uVY.text" = "账户余额:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uHb-s2-WdW"; */
+"uHb-s2-WdW.text" = "Label";
+
+/* Class = "UILabel"; text = "zhiwu"; ObjectID = "yQd-Lk-aPs"; */
+"yQd-Lk-aPs.text" = "zhiwu";

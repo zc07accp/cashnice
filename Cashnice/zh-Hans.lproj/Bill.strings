@@ -1,0 +1,162 @@
+
+/* Class = "UILabel"; text = "1.00"; ObjectID = "04e-UT-5Xv"; */
+"04e-UT-5Xv.text" = "1.00";
+
+/* Class = "UILabel"; text = "余额："; ObjectID = "3VJ-Ao-Kal"; */
+"3VJ-Ao-Kal.text" = "余额：";
+
+/* Class = "UILabel"; text = "40000"; ObjectID = "85y-ad-frP"; */
+"85y-ad-frP.text" = "40000";
+
+/* Class = "UILabel"; text = "借款成功申请"; ObjectID = "89U-4M-FxC"; */
+"89U-4M-FxC.text" = "借款成功申请";
+
+/* Class = "UILabel"; text = "元"; ObjectID = "Eaq-pJ-LeR"; */
+"Eaq-pJ-LeR.text" = "元";
+
+/* Class = "UILabel"; text = "  (占2%) "; ObjectID = "F8c-P5-OQn"; */
+"F8c-P5-OQn.text" = "  (占2%) ";
+
+/* Class = "UILabel"; text = "累计收益"; ObjectID = "FWh-cN-iCC"; */
+"FWh-cN-iCC.text" = "累计收益";
+
+/* Class = "UILabel"; text = "投资收益"; ObjectID = "Fyw-jq-95A"; */
+"Fyw-jq-95A.text" = "投资收益";
+
+/* Class = "UILabel"; text = "订单号: "; ObjectID = "IIf-Rf-LFB"; */
+"IIf-Rf-LFB.text" = "订单号: ";
+
+/* Class = "UILabel"; text = "账户余额"; ObjectID = "M8G-Ei-bfo"; */
+"M8G-Ei-bfo.text" = "账户余额";
+
+/* Class = "UILabel"; text = "投资"; ObjectID = "Mgr-8b-Rgx"; */
+"Mgr-8b-Rgx.text" = "投资";
+
+/* Class = "UILabel"; text = "投资时间: "; ObjectID = "Nyt-By-JSw"; */
+"Nyt-By-JSw.text" = "投资时间: ";
+
+/* Class = "UILabel"; text = "被20人授信"; ObjectID = "OL3-Ft-Dis"; */
+"OL3-Ft-Dis.text" = "被20人授信";
+
+/* Class = "UILabel"; text = "交易成功"; ObjectID = "PvF-37-jQb"; */
+"PvF-37-jQb.text" = "交易成功";
+
+/* Class = "UILabel"; text = "账户余额"; ObjectID = "Q16-aP-7tE"; */
+"Q16-aP-7tE.text" = "账户余额";
+
+/* Class = "UILabel"; text = "  (占80%) "; ObjectID = "S1i-vV-Uyw"; */
+"S1i-vV-Uyw.text" = "  (占80%) ";
+
+/* Class = "UILabel"; text = "2015-02-28"; ObjectID = "SeZ-Ar-VBf"; */
+"SeZ-Ar-VBf.text" = "2015-02-28";
+
+/* Class = "UILabel"; text = "已选择"; ObjectID = "So9-mM-K7I"; */
+"So9-mM-K7I.text" = "已选择";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SyW-hT-wal"; */
+"SyW-hT-wal.text" = "Label";
+
+/* Class = "UILabel"; text = "money"; ObjectID = "TIN-Q6-HRl"; */
+"TIN-Q6-HRl.text" = "money";
+
+/* Class = "UILabel"; text = "立即查看"; ObjectID = "Uta-Is-gn0"; */
+"Uta-Is-gn0.text" = "立即查看";
+
+/* Class = "UILabel"; text = "－8030.00"; ObjectID = "WBJ-cW-TvS"; */
+"WBJ-cW-TvS.text" = "－8030.00";
+
+/* Class = "UILabel"; text = "    蓝海研究院主任"; ObjectID = "WMm-bT-Fra"; */
+"WMm-bT-Fra.text" = "    蓝海研究院主任";
+
+/* Class = "UILabel"; text = "借款等待审核"; ObjectID = "Wa2-5Z-t0J"; */
+"Wa2-5Z-t0J.text" = "借款等待审核";
+
+/* Class = "UILabel"; text = "LabelLabelLaLabelLabelLaLabelLabelLaLabelLabelLaLabelLabelLa"; ObjectID = "WvM-N6-EQD"; */
+"WvM-N6-EQD.text" = "LabelLabelLaLabelLabelLaLabelLabelLaLabelLabelLaLabelLabelLa";
+
+/* Class = "UIButton"; normalTitle = "查询"; ObjectID = "Yej-vU-Nk1"; */
+"Yej-vU-Nk1.normalTitle" = "查询";
+
+/* Class = "UILabel"; text = "北京 朝阳"; ObjectID = "ZcB-Yg-qtz"; */
+"ZcB-Yg-qtz.text" = "北京 朝阳";
+
+/* Class = "UILabel"; text = "50000"; ObjectID = "a7P-jU-1PR"; */
+"a7P-jU-1PR.text" = "50000";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "b3k-VP-ms9"; */
+"b3k-VP-ms9.text" = "Label";
+
+/* Class = "UILabel"; text = "结束日期"; ObjectID = "bur-6S-qdy"; */
+"bur-6S-qdy.text" = "结束日期";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "c9P-rI-2b3"; */
+"c9P-rI-2b3.text" = "0.00";
+
+/* Class = "UILabel"; text = "实付本金: "; ObjectID = "f5V-EX-Jy0"; */
+"f5V-EX-Jy0.text" = "实付本金: ";
+
+/* Class = "UILabel"; text = "借款用途: "; ObjectID = "fUw-Yb-NDs"; */
+"fUw-Yb-NDs.text" = "借款用途: ";
+
+/* Class = "UILabel"; text = "条"; ObjectID = "foF-Lc-QFp"; */
+"foF-Lc-QFp.text" = "条";
+
+/* Class = "UILabel"; text = "投资状态: "; ObjectID = "hWb-Ny-HrK"; */
+"hWb-Ny-HrK.text" = "投资状态: ";
+
+/* Class = "UILabel"; text = "2015-11-13 10:27"; ObjectID = "jJJ-qV-42k"; */
+"jJJ-qV-42k.text" = "2015-11-13 10:27";
+
+/* Class = "UILabel"; text = "2015-09-25 12:58:45"; ObjectID = "k4N-UC-azO"; */
+"k4N-UC-azO.text" = "2015-09-25 12:58:45";
+
+/* Class = "UILabel"; text = "张楠"; ObjectID = "khr-mo-ztu"; */
+"khr-mo-ztu.text" = "张楠";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "l1q-kL-AF0"; */
+"l1q-kL-AF0.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "mL7-0R-PbZ"; */
+"mL7-0R-PbZ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "开始日期"; ObjectID = "mrz-w3-fZI"; */
+"mrz-w3-fZI.text" = "开始日期";
+
+/* Class = "UILabel"; text = "1234"; ObjectID = "o4m-2H-NC5"; */
+"o4m-2H-NC5.text" = "1234";
+
+/* Class = "UILabel"; text = "累计收益"; ObjectID = "oRj-Sn-TTp"; */
+"oRj-Sn-TTp.text" = "累计收益";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "oz9-ir-fhm"; */
+"oz9-ir-fhm.text" = "20";
+
+/* Class = "UILabel"; text = "50000"; ObjectID = "pUA-sU-C8L"; */
+"pUA-sU-C8L.text" = "50000";
+
+/* Class = "UILabel"; text = "2015-092015-092015-092015-092015-092015-092015-09"; ObjectID = "phC-vv-1lz"; */
+"phC-vv-1lz.text" = "2015-092015-092015-092015-092015-092015-092015-09";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "rpX-Mu-VM9"; */
+"rpX-Mu-VM9.text" = "0.00";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sCB-Ae-Iks"; */
+"sCB-Ae-Iks.text" = "Label";
+
+/* Class = "UILabel"; text = "    授信15人"; ObjectID = "sLA-kq-Gm6"; */
+"sLA-kq-Gm6.text" = "    授信15人";
+
+/* Class = "UILabel"; text = "元"; ObjectID = "uhi-Xd-hbW"; */
+"uhi-Xd-hbW.text" = "元";
+
+/* Class = "UILabel"; text = "邀请好友分红收益"; ObjectID = "uuf-GZ-OMJ"; */
+"uuf-GZ-OMJ.text" = "邀请好友分红收益";
+
+/* Class = "UILabel"; text = "山东恒生有限公司"; ObjectID = "wbs-3J-L4I"; */
+"wbs-3J-L4I.text" = "山东恒生有限公司";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "wfs-3h-MvV"; */
+"wfs-3h-MvV.text" = "0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wgT-nv-cx1"; */
+"wgT-nv-cx1.text" = "Label";
